@@ -1,0 +1,2 @@
+# .mockend.json
+fake data
